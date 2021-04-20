@@ -1,5 +1,7 @@
 package lists;
 
+import java.util.Objects;
+
 public class LinkedNode {
       int val;
       LinkedNode next;
